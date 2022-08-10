@@ -1,0 +1,72 @@
+
+++++++++++++++++++++++++++
+
+
+AUTH
+{"type":25,"message":"","userId":413020545,"success":true}
+
+STANDART BET{"Error":"Изменился коэффициент в игре 'Университет Сукре - Тенис Ла-Пас (с ОТ)'","ErrorCode":130,"Guid":"d1f30c3e-ba66-4518-a34d-3aef077ba493","Id":0,"Success":false,"Value":null}
+
+++++++++++++++++++++++++++
+
+
+AUTH
+{"type":25,"message":"","userId":413020545,"success":true}
+
+STANDART BET{"Error":"","ErrorCode":0,"Guid":"07780d94-01e9-46ab-ab6e-11779e60e522","Id":0,"Success":true,"Value":{"Balance":3434.15,"Coupon":{"AntiExpressCoef":0,"BonusCode":null,"CfView":0,"CheckCf":0,"Code":0,"Coef":3,"CustomerId":null,"DebitFrom":null,"Events":[{"Block":false,"CV":null,"Coef":3,"Expired":0,"ExtraKind":0,"FS1":null,"FS2":null,"Finish":false,"FullName":null,"FullScore":0,"GameConstId":0,"GameId":382663210,"InstrumentId":0,"IsBlock":false,"IsRelation":0,"Kind":1,"MS1":21,"MS2":25,"OriginalPlayerId":0,"PS":null,"PV":null,"Param":145.5,"ParamMobile":"145.5","PeriodScores":null,"PlayerId":0,"Price":0,"Score":21.025,"Seconds":0,"SpecialCoef":0,"TimeDirection":0,"TimeSec":0,"Type":9}],"EventsIndexes":null,"ExpresCoef":0,"Groups":null,"GroupsSumms":null,"IsMatchOfDay":false,"Kind":0,"Lng":"ru","ManagerId":null,"MinBetSystem":null,"NeedUpdateLine":false,"ResultCoef":null,"ResultCoefView":null,"SaleBetId":0,"Source":5,"Sport":0,"Summ":10,"TerminalCode":null,"TerminalCodeWeb":null,"Top":0,"UserId":413020545,"UserIdBonus":0,"Vid":0,"WithLobby":false,"avanceBet":false,"betGUID":null,"changeCf":false,"exceptionText":null,"expressNum":0,"fcountry":0,"maxBet":0,"minBet":0,"notLogin":false,"notWait":false,"partner":8,"promo":null,"promoCodes":null},"Dt":"\/Date(1656201438806)\/","FailInfo":null,"Id":27931062809,"SummPrep":0,"betGUID":null,"lnC":true,"lvC":true,"waitTime":0}}
+
+++++++++++++++++++++++++++
+
+
+AUTH
+{"type":25,"message":"","userId":413020545,"success":true}
+
+STANDART BET{"Error":"Игры 'Университет Сукре - Тенис Ла-Пас (с ОТ)' нет в лайве!","ErrorCode":158150,"Guid":"7905457c-4313-4a3f-96e1-ace947a21b0a","Id":0,"Success":false,"Value":{"AdditionalInfo":{},"Balance":0,"Coupon":null,"FailInfo":null,"Id":0,"SummPrep":0,"betGUID":null,"lnC":false,"lvC":false,"waitTime":0}}
+
+++++++++++++++++++++++++++
+
+
+AUTH
+{"type":25,"message":"","userId":413020545,"success":true}
+
+STANDART BET{"Error":"Не удалось поставить на исход игры 'Ферас ду Андарай - ВР Баллерс (с ОТ)'","ErrorCode":129,"Guid":"d550c545-d40c-4a82-9a4f-911f0feb410c","Id":0,"Success":false,"Value":null}
+
+++++++++++++++++++++++++++
+
+
+AUTH
+{"type":25,"message":"","userId":413020545,"success":true}
+
+STANDART BET{"Error":"Игры '' нет в лайве!","ErrorCode":158150,"Guid":"1acf99fc-2ba7-47b2-8d44-f674f5635ffa","Id":0,"Success":false,"Value":{"AdditionalInfo":{"GameIds":[41302054]},"Balance":0,"Coupon":null,"FailInfo":null,"Id":0,"SummPrep":0,"betGUID":null,"lnC":false,"lvC":false,"waitTime":0}}
+
+++++++++++++++++++++++++++
+
+
+AUTH
+{"type":25,"message":"","userId":413020545,"success":true}
+
+STANDART BET{"Error":"Игры '' нет в лайве!","ErrorCode":158150,"Guid":"36837fc1-7bd7-40f5-a455-18c2bfe9ff45","Id":0,"Success":false,"Value":{"AdditionalInfo":{"GameIds":[413020545]},"Balance":0,"Coupon":null,"FailInfo":null,"Id":0,"SummPrep":0,"betGUID":null,"lnC":false,"lvC":false,"waitTime":0}}
+
+++++++++++++++++++++++++++
+
+
+AUTH
+{"type":25,"message":"","userId":413020545,"success":true}
+
+STANDART BET{"Error":"Изменился коэффициент в игре 'Сальвадоренас (жен) - Академия Баллерс (жен) (с ОТ)'","ErrorCode":130,"Guid":"07780d94-01e9-46ab-ab6e-11779e60e522","Id":0,"Success":false,"Value":null}
+
+++++++++++++++++++++++++++
+
+
+AUTH
+{"type":25,"message":"","userId":413020545,"success":true}
+
+STANDART BET{"Error":"Выбранный коэффициент в игре 'Сальвадоренас (жен) - Академия Баллерс (жен) (с ОТ)' временно заблокирован для ставок!\"","ErrorCode":131,"Guid":"9cc9cfc1-783c-4fad-88b0-9647306e9e55","Id":0,"Success":false,"Value":null}
+
+++++++++++++++++++++++++++
+
+
+AUTH
+{"type":25,"message":"","userId":413020545,"success":true}
+
+STANDART BET{"Error":"","ErrorCode":0,"Guid":"4409ed75-a0e7-4bfa-864d-a47f889ec72b","Id":0,"Success":true,"Value":{"Balance":3452.25,"Coupon":{"AntiExpressCoef":0,"BonusCode":null,"CfView":0,"CheckCf":2,"Code":0,"Coef":1.15,"CustomerId":null,"DebitFrom":null,"Events":[{"Block":false,"CV":null,"Coef":1.15,"Expired":0,"ExtraKind":0,"FS1":null,"FS2":null,"Finish":false,"FullName":null,"FullScore":0,"GameConstId":0,"GameId":382822813,"InstrumentId":0,"IsBlock":false,"IsRelation":0,"Kind":1,"MS1":34,"MS2":17,"OriginalPlayerId":0,"PS":null,"PV":null,"Param":96.5,"ParamMobile":"96.5","PeriodScores":null,"PlayerId":0,"Price":0,"Score":34.017,"Seconds":0,"SpecialCoef":0,"TimeDirection":0,"TimeSec":0,"Type":9}],"EventsIndexes":null,"ExpresCoef":0,"Groups":null,"GroupsSumms":null,"IsMatchOfDay":false,"Kind":0,"Lng":"ru","ManagerId":null,"MinBetSystem":null,"NeedUpdateLine":false,"ResultCoef":null,"ResultCoefView":null,"SaleBetId":0,"Source":5,"Sport":0,"Summ":10,"TerminalCode":null,"TerminalCodeWeb":null,"Top":0,"UserId":413020545,"UserIdBonus":0,"Vid":0,"WithLobby":false,"avanceBet":false,"betGUID":null,"changeCf":false,"exceptionText":null,"expressNum":0,"fcountry":0,"maxBet":0,"minBet":0,"notLogin":false,"notWait":false,"partner":8,"promo":null,"promoCodes":null},"Dt":"\/Date(1656269064852)\/","FailInfo":null,"Id":27946194357,"SummPrep":0,"betGUID":null,"lnC":true,"lvC":true,"waitTime":0}}
